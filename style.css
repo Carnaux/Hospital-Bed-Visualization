@@ -1,0 +1,15 @@
+#container-all{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  background-color: transparent;
+  color: black;
+}
+#motorcontrol{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  background-color: transparent;
+  color: black;
+  visibility: hidden;
+}
